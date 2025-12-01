@@ -19,6 +19,10 @@
 ---
 
 <div align="center">
+  <img src="https://i.pinimg.com/originals/23/66/0d/23660defa9c0eb637fdd109fbaaf9487.gif" alt="Coding GIF" width="100"/>
+</div>
+
+<div align="center">
 
 ## 👨‍💻 About Me
 
@@ -28,12 +32,6 @@
 💬 **Ask me about:** Web Development, Blockchain, Game Development, Security Research  
 
 > *Crafting seamless experiences from frontend flair to backend robustness, with a passion for blockchain innovation and cheat-proof gaming worlds. Let's build something epic! 🚀*
-
----
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/23/66/0d/23660defa9c0eb637fdd109fbaaf9487.gif" alt="Coding GIF" width="600"/>
-</div>
 
 ---
 
