@@ -124,8 +124,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F7B93E)](https://github.com/vKAYFv)
 [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F7B93E)](https://t.me/kayfdev)
-[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=Discord&logoColor=F7B93E)](https://discord.gg/kayf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7B93E)](https://linkedin.com/in/kayf)
 
 </div>
 
@@ -133,7 +131,6 @@
 
 <p align="center">
   <samp>
-    ⚡ <a href="https://github.com/vKAYFv">Portfolio</a> ⊹
     <a href="https://t.me/kayfdev">Contact</a> ⊹
     <a href="https://github.com/vKAYFv?tab=repositories">Projects</a> ⚡
   </samp>
