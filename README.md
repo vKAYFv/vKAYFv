@@ -94,19 +94,6 @@ const kayf = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vKAYFv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f7b93e&icon_color=f7b93e&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vKAYFv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f7b93e&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vKAYFv&theme=tokyonight&hide_border=true&background=0d1117&ring=f7b93e&fire=f7b93e&currStreakLabel=f7b93e" alt="GitHub Streak Stats" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -119,7 +106,7 @@ const kayf = {
 
 <div align="center">
 
-[![KAYF's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vKAYFv&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f7b93e&line=f7b93e&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vKAYFv&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f7b93e&line=f7b93e&point=c9d1d9&area=true&area_color=f7b93e" alt="Contribution Skyline" />
 
 </div>
 
@@ -129,20 +116,13 @@ const kayf = {
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKAYFv&theme=tokyonight" alt="Profile Details" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKAYFv&theme=tokyonight" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKAYFv&theme=tokyonight" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vKAYFv&theme=tokyonight" alt="Most Commit Language" />
 
-</div>
-
----
-
-## 🌐 3D Contribution Graph
-
-<div align="center">
-
-![3D Contribution Graph](https://raw.githubusercontent.com/vKAYFv/vKAYFv/main/profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKAYFv&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vKAYFv&theme=tokyonight" alt="Productive Time" />
 
 </div>
 
@@ -170,23 +150,10 @@ const kayf = {
 
 ---
 
-### 📊 Weekly Development Breakdown
-```text
-TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░   48.2%
-React        6 hrs 15 mins   ██████░░░░░░░░░░░░░░░   24.1%
-C++          3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░   14.5%
-Rust         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░    8.4%
-Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░    4.8%
-```
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&color=0:8B5CF6,50:EC4899,100:F59E0B&fontColor=FFFFFF&animation=twinkling&fontAlignY=65"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=✨+Let's+build+something+amazing+together!;💛+Made+with+passion+by+KAYF+DevStudio;🚀+Always+learning%2C+always+growing" alt="Footer Animation" />
 </p>
-
-**⭐ From [KAYF](https://github.com/vKAYFv) with 💛**
 
 </div>
