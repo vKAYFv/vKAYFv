@@ -73,45 +73,71 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vKAYFv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vKAYFv&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f7b93e&line=f7b93e&point=c9d1d9&area=true&area_color=f7b93e" alt="Contribution Skyline" />
+## 🏆 <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #4facfe 75%, #00f2fe 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; font-weight: 900;">GitHub Trophies</span>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,12,20,24,30&section=header&fontSize=0" width="100%"/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=vKAYFv&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
-## 💻 Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKAYFv&theme=tokyonight" alt="Profile Details" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKAYFv&theme=tokyonight" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vKAYFv&theme=tokyonight" alt="Most Commit Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKAYFv&theme=tokyonight" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vKAYFv&theme=tokyonight" alt="Productive Time" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,12,20,24,30&section=footer&fontSize=0" width="100%"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
+
+## 📈 <span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 25%, #ffd140 50%, #4facfe 75%, #43e97b 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; font-weight: 900;">Contribution Graph</span>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,18,20,24,30&section=header&fontSize=0" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vKAYFv&custom_title=KAYF's%20Contribution%20Graph&bg_color=0D1117&color=F7B93E&line=F5576C&point=FFFFFF&area_color=F093FB&title_color=4FACFE&area=true&hide_border=true" width="98%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=14,18,20,24,30&section=footer&fontSize=0" width="100%"/>
+
+</div>
+
+---
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/vKAYFv/vKAYFv/output/github-contribution-grid-snake-dark.svg)
+## 💻 <span style="background: linear-gradient(135deg, #fa709a 0%, #fee140 25%, #30cfd0 50%, #a8edea 75%, #667eea 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; font-weight: 900;">Coding Activity</span>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,6,12,18,24&section=header&fontSize=0" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKAYFv&theme=radical" alt="Profile Details" width="98%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKAYFv&theme=radical" alt="Repos Per Language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vKAYFv&theme=radical" alt="Most Commit Language" width="48%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKAYFv&theme=radical" alt="Stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vKAYFv&theme=radical&utcOffset=1" alt="Productive Time" width="48%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,6,12,18,24&section=footer&fontSize=0" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 <span style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 25%, #667eea 50%, #764ba2 75%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; font-weight: 900;">Contribution Snake</span>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=10,14,18,22,26&section=header&fontSize=0" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vKAYFv/vKAYFv/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vKAYFv/vKAYFv/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vKAYFv/vKAYFv/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=10,14,18,22,26&section=footer&fontSize=0" width="100%"/>
 
 </div>
 
