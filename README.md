@@ -107,19 +107,40 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,6,12,18,24&section=header&fontSize=0" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKAYFv&theme=radical" alt="Profile Details" width="98%"/>
+<!-- Main Profile Card with Glow Effect -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKAYFv&theme=radical" alt="Profile Details" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKAYFv&theme=radical" alt="Repos Per Language" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vKAYFv&theme=radical" alt="Most Commit Language" width="48%"/>
+<!-- Productivity Time & Additional Stats -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vKAYFv&theme=radical&utcOffset=1" alt="Productive Time" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKAYFv&theme=radical" alt="Repos Per Language" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKAYFv&theme=radical" alt="Stats" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vKAYFv&theme=radical&utcOffset=1" alt="Productive Time" width="48%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,6,12,18,24&section=footer&fontSize=0" width="100%"/>
+
+---
+
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+
+</p>
 
 </div>
 
