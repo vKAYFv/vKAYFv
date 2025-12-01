@@ -20,39 +20,85 @@
 
 <div align="center">
 
-### 🚀 About Me
-```typescript
-const kayf = {
-    location: "Berlin, Germany 🇩🇪",
-    timezone: "UTC +01:00",
-    role: "Full-Stack Developer & Game Systems Engineer",
-    code: ["JavaScript", "TypeScript", "C++", "Rust", "PHP", "Python"],
-    askMeAbout: ["web dev", "blockchain", "game dev", "security research"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["Next.js", "React", "Vue.js", "Angular"],
-            styling: ["TailwindCSS", "SCSS", "Styled Components"],
-            uiLibs: ["shadcn/ui", "Aceternity UI", "Radix UI"]
-        },
-        backEnd: {
-            frameworks: ["Node.js", "Express", "NestJS"],
-            databases: ["PostgreSQL", "MongoDB", "Supabase", "Redis"],
-            other: ["REST APIs", "GraphQL", "WebSockets"]
-        },
-        blockchain: {
-            platforms: ["Solana"],
-            tools: ["Web3.js", "Transaction Analysis", "Token Tracking"]
-        },
-        gameDev: {
-            languages: ["C++", "Rust"],
-            focus: ["Anti-Cheat Systems", "Game Security", "CS2 Development"],
-            tools: ["ImGui", "DirectX", "Memory Engineering"]
-        },
-        devOps: ["Docker", "Git", "GitHub Actions", "Vercel"],
-        tools: ["VSCode", "WebStorm", "Visual Studio", "Cursor"]
-```
+## 👨‍💻 About Me
+
+🌍 **Based in:** Berlin, Germany  
+⏰ **Timezone:** UTC +01:00  
+💼 **Role:** Full-Stack Developer & Game Systems Engineer  
+💬 **Ask me about:** Web Development, Blockchain, Game Development, Security Research  
+
+> *Crafting seamless experiences from frontend flair to backend robustness, with a passion for blockchain innovation and cheat-proof gaming worlds. Let's build something epic! 🚀*
+
+---
+
+## 🎯 What I Do
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🎨 Frontend Development
+<div align="center">
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+
+- **Frameworks:** Next.js, React, Vue.js, Angular  
+- **Styling:** TailwindCSS, SCSS, Styled Components  
+- **UI Libraries:** shadcn/ui, Aceternity UI, Radix UI  
+- **Languages:** JavaScript, TypeScript  
 
 </div>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### ⚙️ Backend Development
+<div align="center">
+
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+
+- **Runtime:** Node.js, Express, NestJS  
+- **Databases:** PostgreSQL, MongoDB, Supabase, Redis  
+- **APIs:** REST, GraphQL, WebSockets  
+- **Languages:** PHP, Python  
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### ⛓️ Blockchain Development
+<div align="center">
+
+[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/) [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+- **Platform:** Solana  
+- **Tools:** Web3.js  
+- **Focus:** Transaction Analysis, Token Tracking  
+- **Smart Contracts:** Rust  
+
+</div>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🎮 Game Development
+<div align="center">
+
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/) [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+- **Languages:** C++, Rust  
+- **Focus:** Anti-Cheat Systems, Game Security  
+- **Specialization:** CS2 Development  
+- **Tools:** ImGui, DirectX, Memory Engineering  
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
