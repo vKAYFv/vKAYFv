@@ -102,6 +102,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/23/66/0d/23660defa9c0eb637fdd109fbaaf9487.gif" alt="Coding GIF" width="600"/>
+</div>
+
+---
+
 ## 💼 Tech Stack
 
 ### 🌐 Frontend Development
