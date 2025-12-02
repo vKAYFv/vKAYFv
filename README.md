@@ -43,8 +43,6 @@
     </summary>
     <br>
 
-##
-
 <div align="center">
 
 ## 📈 <span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 25%, #ffd140 50%, #4facfe 75%, #43e97b 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2em; font-weight: 900;">Contribution Graph</span>
