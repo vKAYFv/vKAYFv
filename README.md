@@ -43,16 +43,6 @@
     </summary>
     <br>
 
-<div align="center">
-
-## 🏆 <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #4facfe 75%, #00f2fe 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2em; font-weight: 900;">GitHub Trophies</span>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=6,12,20,24,30&section=header&fontSize=0" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vKAYFv&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-
-</div>
-
 ##
 
 <div align="center">
