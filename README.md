@@ -45,9 +45,13 @@
 
 <div align="center">
 
-## 📈 <span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 25%, #ffd140 50%, #4facfe 75%, #43e97b 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2em; font-weight: 900;">Contribution Graph</span>
+## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vKAYFv&custom_title=🔥%20KAYF's%20Contribution%20Timeline&bg_color=0D1117&color=F7B93E&line=F5576C&point=FFFFFF&area_color=F093FB&title_color=4FACFE&area=true&hide_border=true&height=300" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vKAYFv&custom_title=KAYF%27s%20Contribution%20Timeline&bg_color=0D1117&color=F7B93E&line=F5576C&point=FFFFFF&area_color=F093FB&title_color=4FACFE&area=true&hide_border=true&height=300"
+  width="100%"
+  alt="KAYF Contribution Graph"
+/>
 
 </div>
 
