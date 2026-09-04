@@ -135,7 +135,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&color=0:8B5CF6,50:EC4899,100:F59E0B&fontColor=FFFFFF&animation=twinkling&fontAlignY=65"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=✨+Let's+build+something+amazing+together!;💛+Made+with+passion+by+KAYF+DevStudio;🚀+Always+learning%2C+always+growing" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=✨+Let's+build+something+amazing+together!;💛+Made+with+passion+by+kayfdev;🚀+Always+learning%2C+always+growing" alt="Footer Animation" />
 </p>
 
 </div>
