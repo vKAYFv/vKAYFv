@@ -43,18 +43,6 @@
     </summary>
     <br>
 
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=vKAYFv&custom_title=KAYF%27s%20Contribution%20Timeline&bg_color=0D1117&color=F7B93E&line=F5576C&point=FFFFFF&area_color=F093FB&title_color=4FACFE&area=true&hide_border=true&height=300"
-  width="100%"
-  alt="KAYF Contribution Graph"
-/>
-
-</div>
-
 ##
 
 <div align="center">
