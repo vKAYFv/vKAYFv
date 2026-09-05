@@ -27,7 +27,7 @@
 ## 👨‍💻 About Me
 
 🌍 **Based in:** Berlin, Germany  
-⏰ **Timezone:** UTC +01:00  
+⏰ **Timezone:** UTC +02:00  
 💼 **Role:** Full-Stack Developer & Game Systems Engineer  
 💬 **Ask me about:** Web Development, Blockchain, Game Development, Security Research  
 
